@@ -1,4 +1,6 @@
 # Autor: Vahur Maask
+# Nimetus: esialgne programm
+# Kuupäev: 01.11.2026
 
 import time
 
