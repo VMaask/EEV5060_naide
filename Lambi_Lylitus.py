@@ -1,3 +1,5 @@
+# Autor: Vahur Maask
+
 import time
 
 # Algseadistus
